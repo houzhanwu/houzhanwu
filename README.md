@@ -1,6 +1,12 @@
-### Hello，大家好！ 👋
+###
+<div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello 您好，我是houzw！&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+<img src="https://houzhanwu.github.io/style/images/coding.gif" /><br>
 
- 
+### 个人简介   
 多年开发经验，参与开发过交通行业项目（北斗车联网大数据项目），环保行业（污染源在线监测平台配套小程序及app），物联网智能软（嵌入式）硬件平台，热衷于钻研技术，喜欢参加技术讨论活动！希望和大家多多交流！
 
 
