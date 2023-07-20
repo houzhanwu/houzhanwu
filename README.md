@@ -9,6 +9,9 @@
 | [点我直达](https://houzhanwu.github.io/) | [点我直达](https://blog.csdn.net/qq_27404929)|[点我直达](https://houzhanwu.github.io/resume_ch/)
 
 
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=houzhanwu&layout=compact&theme=tokyonight)
+
+
 |  <img src="https://houzhanwu.github.io/style/images/contact_weixin.gif" width="120" height="120" alt="深蓝软件"/>  |   <img src="https://houzhanwu.github.io/style/images/contact_weixin.gif" width="120" height="120" alt="深蓝源码社区"/> | 
 |  ----  |  ----  |
 |   公众号：深蓝软件  |   公众号：深蓝源码社区  |
